@@ -1,0 +1,20 @@
+# Ignore environment files
+client/.env
+server/.env
+
+# Node modules
+client/node_modules/
+server/node_modules/
+
+# Build / dist files
+client/dist/
+server/dist/
+
+# Logs
+*.log
+client/npm-debug.log*
+server/npm-debug.log*
+
+# OS / Editor files
+.DS_Store
+.vscode/
