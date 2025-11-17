@@ -1,77 +1,63 @@
-🌟 Imagify – AI Image Generator (MERN Stack)
+# 🌟 Imagify – AI Image Generator (MERN Stack)
 
-Imagify is a full-stack AI-powered image generation web application built using the MERN stack, featuring user authentication, credits system, Razorpay payments, and image prompt generation.
+**Imagify** is a full-stack AI-powered image generation web application built with the **MERN stack**, featuring **user authentication, a credits system, Razorpay payments**, and **instant AI image generation from text prompts**.  
 
-This app allows users to enter a text prompt and generate high-quality AI images instantly.
+Generate high-quality AI images in seconds with just a simple prompt!  
 
-🚀 Features
-🌐 Frontend (React + Vite)
+---
 
-Beautiful UI with responsive design
+## 🚀 Features
 
-Login & Signup modal
+### 🌐 Frontend (React + Vite)
+- Beautiful, **responsive UI** for all devices  
+- **Login & Signup** modal for secure access  
+- **Prompt input** to generate AI images instantly  
+- **Image preview** with download option  
+- **Credit-based access** for controlled usage  
+- **Razorpay integration** for buying credits  
 
-Prompt input for image generation
+### 🛠 Backend (Node.js + Express)
+- **User registration & login** with JWT authentication  
+- **Secure image generation API**  
+- **Razorpay order creation & payment verification**  
+- **Transaction history** and credit management for users  
 
-Image preview & download option
+### 🗄 Database (MongoDB)
+- Store **user data, credits, and transactions**  
 
-Credit-based access
+---
 
-Razorpay payment integration for buying credits
+## 🎯 Tech Stack
 
-🛠 Backend (Node.js + Express)
+**Frontend:**  
+- React.js  
+- Vite  
+- Tailwind CSS  
+- Axios  
 
-User registration & login (JWT authentication)
+**Backend:**  
+- Node.js  
+- Express.js  
+- Razorpay SDK  
+- JWT Authentication  
+- Mongoose  
 
-Secure image generation API route
+---
 
-Razorpay order creation
+## 💡 Future Enhancements
+- **Dark mode** for better UX  
+- **User profile page**  
+- **Image history page** to track generated images  
+- **Bulk downloads** for premium users  
+- **Pro premium plans** with extra features  
 
-Payment verification
+---
 
-Storing user transactions and credits
+## ⭐ Show Your Support
+If you like this project, please **⭐ star the repository on GitHub** to show your support!  
 
-🗄 Database (MongoDB)
+---
 
-User data
 
-🎯 Tech Stack
-Frontend
 
-React.js
 
-Vite
-
-Tailwind CSS
-
-Axios
-
-Backend
-
-Node.js
-
-Express.js
-
-Razorpay SDK
-
-JWT Authentication
-
-Mongoose
-🚀 Future Enhancements
-
-Dark mode
-
-User profile page
-
-Image history page
-
-Bulk downloads
-
-Pro premium plans
-⭐ Show Your Support
-
-If you like this project, please ⭐ the repository on GitHub!
-
-Transactions history
-
-Credit updates
